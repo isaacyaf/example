@@ -23,13 +23,13 @@ How should I choose the analysis method?
 <p>
 Q: 
 <p>
-        
-    *Can we use any kind of mechanical learning method to simulate a logic gate(or something else)?*
+
+>Can we use any kind of mechanical learning method to simulate a logic gate(or something else)?
         
 <p>
 A: 
 <p>
-    
+
 >Of course, we can learn the logic gate results repeatedly with a difficult method just like deep learning.
 >But if the problem is not difficult (the rules can explain) or we know enough about the problem, we can consider other methods (for example: Decision tree)
 >Even more we can observe some phenomena with descriptive statistics. When any of our inputs is equal to 0, our output is equal to 1 with a 0% probability.
