@@ -1,6 +1,10 @@
-# ReadMe
+# Readme
 These files (or code) are used for illustration and education purposes.
 
+* [Logic Gate Simulation](#logic-gate-simulation)
+* [MNIST by Keras](#mnist-by-keras)
+* [The Custom Loss Function of Keras](#the-custom-loss-function-of-Keras)
+* [Titanic Survival Prediction](#titanic-survival-prediction)
 ***
 
 ## Logic Gate Simulation
@@ -16,7 +20,7 @@ This contains two examples:
 
 ***
 
-## The Custom loss function of Keras
+## The Custom Loss Function of Keras
 The two loss function codes (mean_absolute_percentage_error, mean_squared_error) are actually applied to the internal framework.
 I put the code in the custom "def function" and show the calling process(mean_squared_error) with MNIST.
 
