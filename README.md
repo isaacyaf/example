@@ -78,7 +78,6 @@ I have prepared two subsets and used to show the results.
     > Turkula, Mrs. (Hedwig)
     > Herman, Miss. Alice
     > Braund, Mr. Owen Harris
-    
 
 *   Group 2
 
