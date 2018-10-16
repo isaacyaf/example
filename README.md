@@ -21,7 +21,10 @@ This contains two examples:
 ***
 
 ## The Custom Loss Function of Keras
-The two loss function codes (mean_absolute_percentage_error, mean_squared_error) are actually applied to the internal framework.
+The two loss function codes are actually applied to the internal framework.
+* mean_absolute_percentage_error
+* mean_squared_error
+<p>
 I put the code in the custom "def function" and show the calling process(mean_squared_error) with MNIST.
 
 ***
