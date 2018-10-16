@@ -11,8 +11,9 @@ These files (or codes) are used for illustration and education purposes.
 The result is done by a neural network(without DL framework).
 
 How should I choose the analysis method?
-![sample](https://github.com/isaacyaf/example/blob/master/test.png)
-
+<p>
+![examples](https://github.com/isaacyaf/example/blob/master/images/examples_ofMethods.PNG?raw=true)
+<p>
 
 ***
 
