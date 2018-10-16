@@ -114,6 +114,31 @@ I have prepared two subsets and used to show the results.
     > Lines, Miss. Mary Conover
     > Blank, Mr. Henry
 
+***
+
+## MNIST by OpenVINO 
+<p>
+This part contains a simple MNIST DNN model and implementations by using OpenVINO for inference.
+<p>
+Before executing the code, please confirm that the execution environment of OpenVINO is ready.
+<p>
+Resources:<p>
+
+[The code](https://github.com/isaacyaf/example/blob/master/titanic_survival_prediction_DNN_lite.ipynb)
+
+The Model (*.bin & *.xml)<p>
+
+[models/my_CNNmodel.h5.bin](https://github.com/isaacyaf/example/blob/master/models/my_CNNmodel.h5.bin
+
+<p>
+
+[models/my_CNNmodel.h5.xml](https://github.com/isaacyaf/example/blob/master/models/my_CNNmodel.h5.xml)
+
+<p>
+
+[test data](https://github.com/isaacyaf/example/blob/master/test.png)
+
+![test data](https://github.com/isaacyaf/example/blob/master/test.png)
 
 
 ***
