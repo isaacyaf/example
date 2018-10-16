@@ -29,22 +29,22 @@ This example lets you pick some features and build a simple DNN model to predict
 <p>
 I have prepared two subsets and used to show the results.
     
-*   Group 1
+    *   Group 1
 
-    > Duane, Mr. Frank
-    > Svensson, Mr. Johan
-    > Turkula, Mrs. (Hedwig)
-    > Herman, Miss. Alice
-    > Braund, Mr. Owen Harris
+        > Duane, Mr. Frank
+        > Svensson, Mr. Johan
+        > Turkula, Mrs. (Hedwig)
+        > Herman, Miss. Alice
+        > Braund, Mr. Owen Harris
     
 
-*   Group 2
+    *   Group 2
 
-    > Guggenheim, Mr. Benjamin
-    > Byles, Rev. Thomas Roussel Davids
-    > Rosalie Ida Blun
-    > Lines, Miss. Mary Conover
-    > Blank, Mr. Henry
+        > Guggenheim, Mr. Benjamin
+        > Byles, Rev. Thomas Roussel Davids
+        > Rosalie Ida Blun
+        > Lines, Miss. Mary Conover
+        > Blank, Mr. Henry
 
 
 
