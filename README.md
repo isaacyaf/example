@@ -9,6 +9,7 @@ These files (or codes) are used for illustration and education purposes.
 
 ## Logic Gate Simulation
 The result is done by a neural network(without DL framework).
+[The code](https://github.com/isaacyaf/example/blob/master/SampleNeuralNetwork_Logic_Gate_Simulation.ipynb)
 
 How should I choose the analysis method?
 <p>
@@ -16,7 +17,10 @@ How should I choose the analysis method?
 ![examples](https://github.com/isaacyaf/example/blob/master/images/examples_ofMethods.PNG?raw=true)
 
 <p>
-
+    These three examples analyze logic gates with neural networks, selection trees (rules), and simple descriptive statistics.
+    <p>
+    Can we use any kind of mechanical learning method to simulate a logic gate(or something else)? <br>
+    Of course, we can learn the logic gate results repeatedly with a difficult method just like deep learning.
 ***
 
 ## MNIST by Keras
