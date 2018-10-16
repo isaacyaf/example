@@ -28,6 +28,7 @@ This example lets you pick some features and build a simple DNN model to predict
 
 <p>
 I have prepared two subsets and used to show the results.
+    
 *   Group 1
 
     > Duane, Mr. Frank
@@ -41,9 +42,10 @@ I have prepared two subsets and used to show the results.
 
     > Guggenheim, Mr. Benjamin
     > Byles, Rev. Thomas Roussel Davids
-    >　Rosalie Ida Blun
+    > Rosalie Ida Blun
     > Lines, Miss. Mary Conover
     > Blank, Mr. Henry
+
 
 
 ***
