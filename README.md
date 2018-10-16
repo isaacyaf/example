@@ -124,11 +124,11 @@ Before executing the code, please confirm that the execution environment of Open
 <p>
 Resources:<p>
 
-[The code](https://github.com/isaacyaf/example/blob/master/titanic_survival_prediction_DNN_lite.ipynb)
+[The code](https://github.com/isaacyaf/example/blob/master/OPENVINO_MNIST_CNN_lite.py)
 
 The Model (*.bin & *.xml)<p>
 
-[models/my_CNNmodel.h5.bin](https://github.com/isaacyaf/example/blob/master/models/my_CNNmodel.h5.bin
+[models/my_CNNmodel.h5.bin](https://github.com/isaacyaf/example/blob/master/models/my_CNNmodel.h5.bin)
 
 <p>
 
@@ -136,9 +136,14 @@ The Model (*.bin & *.xml)<p>
 
 <p>
 
-[test data](https://github.com/isaacyaf/example/blob/master/test.png)
+[test.png](https://github.com/isaacyaf/example/blob/master/test.png)
 
-![test data](https://github.com/isaacyaf/example/blob/master/test.png)
+![test.png](https://github.com/isaacyaf/example/blob/master/test.png)
+
+<p>
+python OPENVINO_MNIST_CNN_lite.py <p>
+
+
 
 
 ***
