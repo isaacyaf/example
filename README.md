@@ -15,13 +15,15 @@ The result is done by a neural network(without DL framework).
 How should I choose the analysis method?
 <p>
 
-![examples](https://github.com/isaacyaf/example/blob/master/images/examples_ofMethods.PNG?raw=true)
+[examples]: https://github.com/isaacyaf/example/blob/master/images/examples_ofMethods.PNG
 
 <p>
     These three examples analyze logic gates with neural networks, selection trees (rules), and simple descriptive statistics.
     <p>
     Q: <p>
+        
         **Can we use any kind of mechanical learning method to simulate a logic gate(or something else)?**
+        
 <p>
     A: <p>
         Of course, we can learn the logic gate results repeatedly with a difficult method just like deep learning.
