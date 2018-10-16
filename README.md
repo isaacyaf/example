@@ -5,6 +5,7 @@ These files (or codes) are used for illustration and education purposes.
 * [MNIST by Keras](#mnist-by-keras)
 * [The Custom Loss Function of Keras](#the-custom-loss-function-of-Keras)
 * [Titanic Survival Prediction](#titanic-survival-prediction)
+* [MNIST by OpenVINO](#mnist-by-openvino)
 ***
 
 ## Logic Gate Simulation
@@ -141,7 +142,9 @@ The Model (*.bin & *.xml)<p>
 ![test.png](https://github.com/isaacyaf/example/blob/master/test.png)
 
 <p>
+    
     python OPENVINO_MNIST_CNN_lite.py <p>
+
 
 
 
