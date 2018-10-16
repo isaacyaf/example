@@ -29,7 +29,31 @@ I put the code in the custom "def function" and show the calling process(mean_sq
 ## Titanic Survival Prediction
 The training data has been pre-processed. 
 This example lets you pick some features and build a simple DNN model to predict survival.
-
+<p>
+Features Preview:
+    
+|Col. Name  | Data Explanation |
+|---\t  |--- |
+|PassengerId    ||   
+|Pclass         |1/2/3  |
+|Name           ||
+|Name_length    ||
+|Title          | 1: Mr <br> 2: Miss   <br> 3: Mrs <br> 4: Master  <br> 5: Rare <br><br> Rare = 'Capt', 'Col', 'Countess',\t'Don', 'Dr',<br> 'Jonkheer', 'Lady', 'Major', 'Rev', 'Sir'|
+|Sex            |0: Female <br> 1: Male|
+|Age            ||
+|Age_Categories |0: ≤ 16 <br> 1: > 16 &  ≤ 32  <br> 2: > 32 &  ≤ 48  <br> 3: > 48 & ≤ 64  <br> 4: > 64 |
+|SibSp          ||
+|Parch          ||
+|FamilySize     |SibSp + Parch + 1|
+|IsAlone        |0: No <br> 1: Yes|
+|Ticket         ||
+|Fare           ||
+|Fare_Categories|0: ≤ 7.91 <br> 1: > 7.91 &  ≤ 14.454  <br> 2: > 14.454 &  ≤ 31  <br> 3: > 31  |
+|Cabin          ||
+|Has_Cabin      |0: No <br> 1: Yes|
+|Embarked       |0 = Southampton <br> 1 = Cherbourg  <br> 2 = Queenstown  |
+|Survived       |0 = No, 1 =Yes|
+    
 <p>
 I have prepared two subsets and used to show the results.
     
