@@ -141,7 +141,7 @@ The Model (*.bin & *.xml)<p>
 ![test.png](https://github.com/isaacyaf/example/blob/master/test.png)
 
 <p>
-python OPENVINO_MNIST_CNN_lite.py <p>
+    python OPENVINO_MNIST_CNN_lite.py <p>
 
 
 
