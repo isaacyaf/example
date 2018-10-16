@@ -34,11 +34,11 @@ Features Preview:
     
 |Col. Name      | Data Explanation  |
 |:----------    |:---------------   |
-|PassengerId    |                   |   
+|PassengerId    ||   
 |Pclass         |1/2/3              |
 |Name           ||
 |Name_length    ||
-|Title          | 1: Mr <br> 2: Miss   <br> 3: Mrs <br> 4: Master  <br> 5: Rare <br><br> Rare = 'Capt', 'Col', 'Countess',\t'Don', 'Dr',<br> 'Jonkheer', 'Lady', 'Major', 'Rev', 'Sir'|
+|Title          | 1: Mr <br> 2: Miss   <br> 3: Mrs <br> 4: Master  <br> 5: Rare <br><br> Rare = 'Capt', 'Col', 'Countess', 'Don', 'Dr',<br> 'Jonkheer', 'Lady', 'Major', 'Rev', 'Sir'|
 |Sex            |0: Female <br> 1: Male|
 |Age            ||
 |Age_Categories |0: ≤ 16 <br> 1: > 16 &  ≤ 32  <br> 2: > 32 &  ≤ 48  <br> 3: > 48 & ≤ 64  <br> 4: > 64 |
