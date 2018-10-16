@@ -32,10 +32,11 @@ This example lets you pick some features and build a simple DNN model to predict
 <p>
 Features Preview:
     
-|Col. Name  | Data Explanation |
-|---\t  |--- |
-|PassengerId    ||   
-|Pclass         |1/2/3  |
+|Col. Name      | Data Explanation  |
+|:----------    |:---------------   |
+|PassengerId    |                   |   
+|Pclass         |1/2/3              |
+
 |Name           ||
 |Name_length    ||
 |Title          | 1: Mr <br> 2: Miss   <br> 3: Mrs <br> 4: Master  <br> 5: Rare <br><br> Rare = 'Capt', 'Col', 'Countess',\t'Don', 'Dr',<br> 'Jonkheer', 'Lady', 'Major', 'Rev', 'Sir'|
@@ -53,7 +54,7 @@ Features Preview:
 |Has_Cabin      |0: No <br> 1: Yes|
 |Embarked       |0 = Southampton <br> 1 = Cherbourg  <br> 2 = Queenstown  |
 |Survived       |0 = No, 1 =Yes|
-    
+ 
 <p>
 I have prepared two subsets and used to show the results.
     
