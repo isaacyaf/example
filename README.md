@@ -1,5 +1,5 @@
 # Readme
-These files (or code) are used for illustration and education purposes.
+These files (or codes) are used for illustration and education purposes.
 
 * [Logic Gate Simulation](#logic-gate-simulation)
 * [MNIST by Keras](#mnist-by-keras)
@@ -9,6 +9,10 @@ These files (or code) are used for illustration and education purposes.
 
 ## Logic Gate Simulation
 The result is done by a neural network(without DL framework).
+
+How should I choose the analysis method?
+![sample](example/test.png)
+
 
 ***
 
