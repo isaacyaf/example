@@ -36,7 +36,6 @@ Features Preview:
 |:----------    |:---------------   |
 |PassengerId    |                   |   
 |Pclass         |1/2/3              |
-
 |Name           ||
 |Name_length    ||
 |Title          | 1: Mr <br> 2: Miss   <br> 3: Mrs <br> 4: Master  <br> 5: Rare <br><br> Rare = 'Capt', 'Col', 'Countess',\t'Don', 'Dr',<br> 'Jonkheer', 'Lady', 'Major', 'Rev', 'Sir'|
