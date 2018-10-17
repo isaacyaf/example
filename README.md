@@ -14,21 +14,24 @@ The result is done by a neural network(without DL framework).
 
 [The code](https://github.com/isaacyaf/example/blob/master/SampleNeuralNetwork_Logic_Gate_Simulation.ipynb)
 
-How should I choose the analysis method?
-<p>
-
-![examples](https://github.com/isaacyaf/example/blob/master/images/examples_ofMethods.PNG)
-
-<p>
-    These three examples analyze logic gates with neural networks, selection trees (rules), and simple descriptive statistics.
 <p>
 Q: 
 <p>
 
 >Can we use any kind of mechanical learning method to simulate a logic gate(or something else)?
-        
+>or
+>How should I choose the analysis method?
+
 <p>
 A: 
+<p>
+
+The examples of neural networks, selection trees (rules), and simple descriptive statistics analyze logic gates.
+
+<p>
+
+![examples](https://github.com/isaacyaf/example/blob/master/images/examples_ofMethods.PNG)
+
 <p>
 
 >Of course, we can learn the logic gate results repeatedly with a difficult method just like deep learning.
@@ -37,6 +40,7 @@ A:
 
 >Even more we can observe some phenomena with descriptive statistics. When any of our inputs is equal to 0, our output is equal to 1 with a 0% probability.
 
+<p>
 
 ***
 
